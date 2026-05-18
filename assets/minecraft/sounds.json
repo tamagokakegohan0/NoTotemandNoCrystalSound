@@ -1,0 +1,8 @@
+{
+  "item.totem.use": { "replace": true, "sounds": [] },
+  "entity.generic.explode": { "replace": true, "sounds": [] },
+  "block.respawn_anchor.charge": { "replace": true, "sounds": [] },
+  "block.respawn_anchor.ambient": { "replace": true, "sounds": [] },
+  "block.respawn_anchor.deplete": { "replace": true, "sounds": [] },
+  "block.respawn_anchor.set_spawn": { "replace": true, "sounds": [] }
+}
